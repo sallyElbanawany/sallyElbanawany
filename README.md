@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sally Elbanawany</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">A Java software engineer from Cairo, Egypt 🏝</h3>
 
 - 🌱 I’m currently learning **Spring**
 - 📫 How to reach me **sallyelbanawany1998@gmail.com**
